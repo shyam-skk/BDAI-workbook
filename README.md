@@ -33,10 +33,7 @@ Project Objectives and Goals
 5. documents  : Documentation of step by step instalation and configuration of Hadoop, Spark and Jupyter.
 6. plots  : plots and visualization generated in the project.
 
-a. decision-tree.ipynb : code for decision tree implementation.
-
-b. regression.ipynb : code for linear regression.
-
-c. sparkSQL-1.ipynb : answers to project objective using SparkSQL.
-
-d. sparkSQL-2.ipynb : answers to project objective using sparkSQL.
+  a. decision-tree.ipynb : code for decision tree implementation.
+  b. regression.ipynb : code for linear regression.
+  c. sparkSQL-1.ipynb : answers to project objective using SparkSQL.
+  d. sparkSQL-2.ipynb : answers to project objective using sparkSQL.
