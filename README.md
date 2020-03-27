@@ -25,7 +25,7 @@ Project Objectives and Goals
 3. Who are the top 20 investors in the last decade?
 4. Which were the business sectors in growth before the 21st century and after 2000 and its comparision?
 
-#GitHub repository details - Home directory.
+# GitHub repository details - Home directory.
 1. Cleaned Data   : this folder contain all cleaned data sets.
 2. Data cleaning  : folder contain python files for data cleaning corresponding to each data set.
 3. Exploratory-Data-Analysis : This folder contains ipython note book files for exploratory data analysis.
