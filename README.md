@@ -25,4 +25,15 @@ Project Objectives and Goals
 3. Who are the top 20 investors in the last decade?
 4. Which were the business sectors in growth before the 21st century and after 2000 and its comparision?
 
-#GitHub repository details
+#GitHub repository details - Home directory.
+1. Cleaned Data   : this folder contain all cleaned data sets.
+2. Data cleaning  : folder contain python files for data cleaning corresponding to each data set.
+3. Exploratory-Data-Analysis : This folder contains ipython note book files for exploratory data analysis.
+4. crunch-base-dataset : The raw dataset used for the project.
+5. documents  : Documentation of step by step instalation and configuration of Hadoop, Spark and Jupyter.
+6. plots  : plots and visualization generated in the project.
+
+a. decision-tree.ipynb : code for decision tree implementation.
+b. regression.ipynb : code for linear regression.
+c. sparkSQL-1.ipynb : answers to project objective using SparkSQL.
+d. sparkSQL-2.ipynb : answers to project objective using sparkSQL.
