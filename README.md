@@ -1,4 +1,4 @@
-# BDAI-workbook
+# CrunchBase Startup Data Analysis using Apache Spark
 
 The startup ecosystem is very vibrant and throbbing. Every day, novel technolo-
 gies are emerging and innovative companies get founded, on the other hand, some
